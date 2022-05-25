@@ -4,3 +4,4 @@ Ernest's Favorite Foods
 2. Chinese
 3. Sushi
 4. Pizza
+5. Hamburgers
